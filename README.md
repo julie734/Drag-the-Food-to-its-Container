@@ -1,5 +1,6 @@
 # Drag-the-Food-to-its-Container
 Game about dragging the food to their designated container
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
